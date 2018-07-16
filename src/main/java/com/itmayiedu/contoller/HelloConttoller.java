@@ -23,6 +23,7 @@ public class HelloConttoller {
 	@RequestMapping("/test2")
 	public String test2() {
 		int i = 1 / 0;
+		System.out.println();
 		return "test2";
 	}
 }
