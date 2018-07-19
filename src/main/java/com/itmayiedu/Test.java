@@ -5,7 +5,7 @@ import java.util.Vector;
 public class Test {
     Test()
     {
-    	System.out.println("ww");
+    	//System.out.println("ww");
     }
 	
 	public String toString()
